@@ -1,1 +1,11 @@
+<img width="1257" height="787" alt="Screenshot 2026-09-04 004254" src="https://github.com/user-attachments/assets/3c533353-cbf0-41ab-a5ac-beb133b392f0" />
+<img width="862" height="532" alt="Screenshot 2026-09-04 004249" src="https://github.com/user-attachments/assets/3842fbf9-8c31-4d03-b896-7ade5b1e954b" />
+<img width="1617" height="880" alt="Screenshot 2026-09-04 003729" src="https://github.com/user-attachments/assets/3c08cf03-f582-4903-8919-bf2b099b50d3" />
+<img width="890" height="511" alt="Screenshot 2026-09-04 003725" src="https://github.com/user-attachments/assets/89fba3b3-7754-4528-abc6-7f2dff977641" />
+<img width="1845" height="973" alt="Screenshot 2026-09-04 003058" src="https://github.com/user-attachments/assets/68b983bf-ee2c-4295-b2d7-023eec8e82c9" />
+<img width="955" height="481" alt="Screenshot 2026-09-04 003053" src="https://github.com/user-attachments/assets/eb16b3e9-2a70-48ba-96aa-91a4b16bbc42" />
+<img width="1858" height="956" alt="Screenshot 2026-09-04 002838" src="https://github.com/user-attachments/assets/05654b0b-0146-44a5-8497-8654cc09ec82" />
+<img width="1447" height="813" alt="Screenshot 2026-09-04 002832" src="https://github.com/user-attachments/assets/0fc4d3d6-40e9-4cd3-9b56-2dee517d229a" />
+<img width="1180" height="786" alt="Screenshot 2026-09-04 000818" src="https://github.com/user-attachments/assets/47a39986-2f98-43d1-9c74-27e6c7dc5584" />
+<img width="456" height="288" alt="Screenshot 2026-09-04 000811" src="https://github.com/user-attachments/assets/7564805c-0363-46b2-a9f8-c5e2159f9acc" />
 I have Done this assignments in my server
