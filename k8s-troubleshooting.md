@@ -43,6 +43,18 @@ kubectl logs <pod-name> -c <container-name>
 
 # View logs from a previously crashed container
 kubectl logs --previous <pod-name>
+
+2. Events (Cluster Activity)
+Events are actual Kubernetes resource objects that report what the cluster control plane is doing or what is happening to your resources.
+
+Source: Kubernetes components (Kubelet, Scheduler, Controllers).
+
+Purpose: Debugging cluster-level and infrastructure issues (e.g., node autoscaling, pod scheduling failures, ErrImagePull, readiness probe failures).
+
+Lifespan: Highly transient. To prevent etcd from filling up, Kubernetes usually deletes events after 1 hour.
+
+Common Commands:
+
 # View all events in the current namespace
 kubectl get events
 
