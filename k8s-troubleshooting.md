@@ -44,6 +44,7 @@ kubectl logs <pod-name> -c <container-name>
 # View logs from a previously crashed container
 kubectl logs --previous <pod-name>
 
+```
 2. Events (Cluster Activity)
 Events are actual Kubernetes resource objects that report what the cluster control plane is doing or what is happening to your resources.
 
@@ -66,3 +67,10 @@ kubectl get events -w
 
 # View events for a specific pod (events are listed at the bottom of the output)
 kubectl describe pod <pod-name>
+
+
+
+### Mini-Project
+<img width="1461" height="913" alt="Screenshot 2026-09-21 125320" src="https://github.com/user-attachments/assets/226d1730-1d61-448e-9e2d-9e491af4c215" />
+<img width="1461" height="913" alt="Screenshot 2026-09-21 125314" src="https://github.com/user-attachments/assets/aeff882e-62c3-4da2-99f3-872829fca324" />
+<img width="1461" height="913" alt="Screenshot 2026-09-21 125304" src="https://github.com/user-attachments/assets/6692873b-8384-4f98-bfad-4d90efea9d56" />
