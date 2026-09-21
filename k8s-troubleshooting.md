@@ -74,3 +74,8 @@ kubectl describe pod <pod-name>
 <img width="1461" height="913" alt="Screenshot 2026-09-21 125320" src="https://github.com/user-attachments/assets/226d1730-1d61-448e-9e2d-9e491af4c215" />
 <img width="1461" height="913" alt="Screenshot 2026-09-21 125314" src="https://github.com/user-attachments/assets/aeff882e-62c3-4da2-99f3-872829fca324" />
 <img width="1461" height="913" alt="Screenshot 2026-09-21 125304" src="https://github.com/user-attachments/assets/6692873b-8384-4f98-bfad-4d90efea9d56" />
+
+
+###Copy to dir
+<img width="1417" height="351" alt="Screenshot 2026-09-21 130316" src="https://github.com/user-attachments/assets/e430d5fc-5b30-4872-b116-e3ed173dafc2" />
+
