@@ -69,11 +69,23 @@ kubectl get configmap notes-config -o yaml
 - Rollout status: successful
 
 ## Evidence
-Attach terminal screenshots showing the install, both upgrades, revision history, rollback, final Deployment status, and production ConfigMap.
-<img width="1156" height="518" alt="Screenshot 2026-10-16 092132" src="https://github.com/user-attachments/assets/8f836c7b-f0f3-4abd-8772-e46cee2a3fdc" />
-<img width="1031" height="1012" alt="Screenshot 2026-10-16 092124" src="https://github.com/user-attachments/assets/b6b6cdcd-89e4-4ad9-ae6a-6cd7932c29ef" />
-<img width="1037" height="788" alt="Screenshot 2026-10-16 092115" src="https://github.com/user-attachments/assets/3df1483b-1a1a-46de-b319-a73fef2dc935" />
-<img width="1276" height="967" alt="Screenshot 2026-10-16 092332" src="https://github.com/user-attachments/assets/7638f6d3-a94c-4cd8-90e4-bb8c5bd73f00" />
-<img width="1156" height="1007" alt="Screenshot 2026-10-16 092304" src="https://github.com/user-attachments/assets/ed28ef34-297d-49b5-931e-51591708b4cd" />
-<img width="1117" height="918" alt="Screenshot 2026-10-16 092257" src="https://github.com/user-attachments/assets/2ec06c57-1cfe-45b6-8951-5a565a7a470d" />
+<img width="1184" height="268" alt="18-mini-project-cleanup" src="https://github.com/user-attachments/assets/9e1e2b7b-d853-4ca2-9a2d-abfcd8a7ef92" />
+<img width="1184" height="540" alt="17-mini-project-break-rollback" src="https://github.com/user-attachments/assets/428d802d-78f0-428e-af9b-02f503e758ee" />
+<img width="1184" height="404" alt="16-mini-project-upgrade-prod" src="https://github.com/user-attachments/assets/67797ff9-0c40-439a-b82d-3d70ec12924e" />
+<img width="1184" height="421" alt="15-mini-project-install" src="https://github.com/user-attachments/assets/dbbacb67-88fb-4486-ae22-5a73a595bd33" />
+<img width="1184" height="1135" alt="14-mini-project-lint-template" src="https://github.com/user-attachments/assets/1579e694-610e-4857-90ca-ca470143fc8b" />
+<img width="1184" height="557" alt="13-guestbook-upgrade-rollback" src="https://github.com/user-attachments/assets/feb1e906-0a50-4994-abdd-0c40226cc2d9" />
+<img width="1184" height="506" alt="12-guestbook-lint-install" src="https://github.com/user-attachments/assets/63d5b212-dacc-4fa7-a429-7eec4aa8a4e8" />
+<img width="1184" height="404" alt="11-atomic-rollback" src="https://github.com/user-attachments/assets/a84b34d8-a1dc-45d9-9210-cfa3574c5c4e" />
+<img width="1184" height="676" alt="10-rollback" src="https://github.com/user-attachments/assets/666f084a-ecdf-4ef7-afb8-c64cfe6f1a26" />
+<img width="1184" height="404" alt="09-upgrade-install-uninstall" src="https://github.com/user-attachments/assets/08db4d5d-4ba6-4550-8a38-46cefb1995e0" />
+<img width="1184" height="625" alt="08-install-upgrade" src="https://github.com/user-attachments/assets/d479bec8-e227-47bd-b657-da9a65d43f32" />
+<img width="1184" height="761" alt="07-templates" src="https://github.com/user-attachments/assets/1143c9d3-d868-4b0f-8ae0-ff8f4e1ef9b3" />
+<img width="1184" height="455" alt="06-values-override" src="https://github.com/user-attachments/assets/8e07afab-fa43-484b-8f74-0c9ec2955a69" />
+<img width="1184" height="421" alt="05-chart-yaml-lint" src="https://github.com/user-attachments/assets/b5a022c2-ae7c-4dde-a5e9-7f99aba03427" />
+<img width="1184" height="931" alt="04-chart-structure" src="https://github.com/user-attachments/assets/24ee08b9-bc83-4e65-a647-d9e36d4c5265" />
+<img width="1184" height="523" alt="03-install-demo-chart" src="https://github.com/user-attachments/assets/947842c9-e4ba-41d8-9484-23b5ac8b96c1" />
+<img width="1184" height="1237" alt="02-create-chart" src="https://github.com/user-attachments/assets/dc5a1b76-9cd6-4587-9139-a0831eddfc77" />
+<img width="1184" height="472" alt="01-helm-version" src="https://github.com/user-attachments/assets/7c80285a-5585-4eae-94de-a81dc364c2e5" />
+
 
